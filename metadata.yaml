@@ -1,0 +1,36 @@
+_repo: Sir-James-Young-Simpson-and-Chloroform--1811-1870-Masters-of-Medicine_34128
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34128-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gordon, H. Laing (Henry Laing)
+    alias: Gordon, Henry Laing
+    gutenberg_agent_id: '36803'
+    url: http://www.gutenberg.org/2009/agents/36803
+  editor:
+    agent_name: Hart, Ernest Abraham
+    alias: Hart, Ernest
+    birthdate: 1835
+    deathdate: 1898
+    gutenberg_agent_id: '36804'
+    url: http://www.gutenberg.org/2009/agents/36804
+description: ''
+gutenberg_issued: '2010-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anesthetics'
+- !lcsh 'Chloroform'
+- !lcc 'R'
+- !lcsh 'Simpson, James Young, 1811-1870'
+title: 'Sir James Young Simpson and Chloroform (1811-1870)
+
+  Masters of Medicine'
+url: http://www.gutenberg.org/ebooks/34128
